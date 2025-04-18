@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-  <title>ZOOMABLE CIRCLE PACKING</title>
+  <title>S&P 500 Earnings - Zoomable Circle Packing</title>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://d3js.org/d3-array.v2.min.js"></script>
   <style>
@@ -185,24 +185,24 @@
   
   
   <script type="text/javascript">
-    var zoomableDataX = "melted_df.csv";
-    var fdata = zoomableDataX;
+    var alldata = "melted_df.csv";
+    var fdata;
 
-    var margin_zoom = {top: 50, right: 50, bottom: 50, left: 50},
-        width = 1100 - margin_zoom.left - margin_zoom.right,
-        height = 1100 - margin_zoom.top - margin_zoom.bottom;
+    // var margin_zoom = {top: 50, right: 50, bottom: 50, left: 50},
+    //     width = 1100 - margin_zoom.left - margin_zoom.right,
+    //     height = 1100 - margin_zoom.top - margin_zoom.bottom;
 
-    var margin_header = {top: 10, right: 50, bottom: 50, left: 10},
-        width = 1100 - margin_header.left - margin_header.right,
-        height = 100 - margin_header.top - margin_header.bottom;
+    // var margin_header = {top: 10, right: 50, bottom: 50, left: 10},
+    //     width = 1100 - margin_header.left - margin_header.right,
+    //     height = 100 - margin_header.top - margin_header.bottom;
 
-    var margin_header_filters = {top: 10, right: 50, bottom: 50, left: 10},
-        width = 600 - margin_header_filters.left - margin_header_filters.right,
-        height = 100 - margin_header_filters.top - margin_header_filters.bottom;
+    // var margin_header_filters = {top: 10, right: 50, bottom: 50, left: 10},
+    //     width = 600 - margin_header_filters.left - margin_header_filters.right,
+    //     height = 100 - margin_header_filters.top - margin_header_filters.bottom;
 
-    var margin_header_filter_sector = {top: 10, right: 50, bottom: 50, left: 10},
-        width = 600 - margin_header_filter_sector.left - margin_header_filter_sector.right,
-        height = 100 - margin_header_filter_sector.top - margin_header_filter_sector.bottom;
+    // var margin_header_filter_sector = {top: 10, right: 50, bottom: 50, left: 10},
+    //     width = 600 - margin_header_filter_sector.left - margin_header_filter_sector.right,
+    //     height = 100 - margin_header_filter_sector.top - margin_header_filter_sector.bottom;
 
     const get_sets = function(data, field) { 
         const values = data.map(d => d[field])
@@ -221,13 +221,11 @@
 
     var data, oldFocus;
 
-    function populateMenus() {
-      //removeOptions(document.getElementById("selectButton_year"));  
+    function populateMenus() {  
 
-      d3.csv(zoomableDataX, function(rows) {
+      d3.csv(alldata, function(rows) {
 
         data = rows;
-        //data for the combobox control
 
         fdata = datafilter(data,
                             d3.select('#selectButton_year').node().value,
@@ -241,8 +239,6 @@
             }
         }
         );
-
-        //console.log('dtay',dtaYrs)
 
         const year_set = get_sets(dtaMenu,'y').sort(d3.descending);
         year_set.unshift('All');
@@ -293,12 +289,12 @@
       });
     };
 
-    function removeOptions(selectbox) {
-      var i;
-      for (i = selectbox.options.length - 1; i >= 0; i--) {
-        selectbox.remove(i);
-      }
-    };
+    // function removeOptions(selectbox) {
+    //   var i;
+    //   for (i = selectbox.options.length - 1; i >= 0; i--) {
+    //     selectbox.remove(i);
+    //   }
+    // };
 
     makeHierarchy = (config) => {
     const defaultConfig = {
@@ -327,15 +323,9 @@
       .attr("width", 500)
       .attr("height", 300); 
 
-      var svg3 = d3.select("#tool").append("div")
-      //   //.append("svg")
-      .attr("width", 500)
-      .attr("height", 300); 
-
-
-    //added>>>>>>
-    var format = d3.format(",d");
-    //>>>>>>>>>>>
+    // //added>>>>>>
+    // var format = d3.(",d");
+    // //>>>>>>>>>>>
 
     var color = d3.scaleLinear()
       .domain([-1, 5])
@@ -343,12 +333,12 @@
       .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
       .interpolate(d3.interpolateHcl);
 
-    //added>>>>>>
-    var stratify = d3.stratify()
-      .parentId(function(d) {
-        return d.id.substring(0, d.id.lastIndexOf("~"));
-      });
-    //>>>>>>>>>>>
+    // //added>>>>>>
+    // var stratify = d3.stratify()
+    //   .parentId(function(d) {
+    //     return d.id.substring(0, d.id.lastIndexOf("~"));
+    //   });
+    // //>>>>>>>>>>>
 
     var pack = d3.pack()
       .size([diameter - margin, diameter - margin])
@@ -368,6 +358,7 @@
     
       var nodes = pack(root).descendants();
       
+      // add name to nested dicts
       function addKeyValueToChildren(data) {
         if (Array.isArray(data)) {
           data.forEach(child => {
@@ -382,11 +373,14 @@
         }
       return data;
 }
+
     nodes = addKeyValueToChildren(nodes)
-    console.log('newnodes',nodes)
-    //console.log('newnodes',newnodes)
+
+    // add root text to focus div
     svg2.html("Root")
-      var circle = g.selectAll("*.circle")
+    
+    // add circle items
+    var circle = g.selectAll("*.circle")
         .data(nodes);
         //, function(d){
         //  return d.id;
@@ -411,11 +405,9 @@
         })
         .merge(circle);
 
-
+      // add text items
       var text = g.selectAll("*.text")
-        .data(nodes);//, function(d){
-          //return d.id;
-       // });
+        .data(nodes);
         
       text.exit().remove();
         
@@ -424,16 +416,7 @@
         .attr("class", d => !d.children || d.children.length === 0 ? "leaf" : "label");//.merge(text);
         
       text.text(function(d) {
-        //if (d.height === 0) {console.log('text d', d)};
-        //if (d.height == 0) {console.log('0',d.leaves())}
-        //if (!d.children) {console.log("1",d)}
-        //if (d.children && d.children.length === 0) {console.log("2", d)}
-        //if (d.children && d.children.length > 0) {console.log("3",d)}
-          //return !d.children || d.children.length === 0 ? d.data[0] + ": " + d3.format(".4f")(d.value) : d.data[0];
-          return d.name;//!d.children ? d.data[0] + ": " + d3.format(".4f")(d.value) : d.data[0];
-          //return d.data[0];//d.data[0] + ": " + d.data[1];
-          //return d.data[0];
-          //d.id.substring(d.id.lastIndexOf("~") + 1).split(/(?=[A-Z][^A-Z])/g);
+          return d.name;
         })
         .style("fill-opacity", function(d) {
           return d.parent === root ? 1 : 0;
@@ -443,61 +426,36 @@
         })
         .merge(text);
 
+      // select nodes for zooming
       var node = g.selectAll("circle,text");
-      //var nodem = g.selectAll("circle,text");
       
       var tooltipDiv = d3.select("#zoomable").append("div")
          .attr("class", "tooltip")
          .style("position", "absolute")
          .attr('fill','white')
-	        //.style("z-index", "10")
          .style("opacity", 0);
       
-
-      //  .data(nodes)
-      // .enter()
-      // .append('text')
-      // .attr("x", 20)
-      // .attr("y",20)
-      // .text(d => 'd');
-      // //svg2.selectAll('text').data(nodes).enter()  
-      
+      //event handling for tooltip
       circle
         .on("mouseover", function(d) {
-          //console.log(d3.event.pageX)
-            //console.log('tip', d)
             tooltipDiv.transition().delay(100).duration(500).style("opacity", 1);
             tooltipDiv.html(!d.children ? d.data[0] + ": " + d3.format(".4f")(d.data[1]) : d.data[0]); // Replace d.x with your desired tooltip text
             tooltipDiv.style("left", d3.event.pageX - 5 + "px")
             tooltipDiv.style("top", d3.event.pageY - 300+ "px")
 
-            //information.html(d.leaves())
 
         })
         .on("mouseout", function(d) {
             tooltipDiv.transition().duration(500).style("opacity", 0);
         })
-      // var nodec = g.selectAll("circle");
       d3.select("#zoomable")
         .on("mousemove", function() {
             tooltipDiv.style("left", d3.event.pageX -5 + "px")
             tooltipDiv.style("top", d3.event.pageY -300+ "px")
         });
-      // node.append("title")
-      //  .text(function(d) {
-      //   console.log('titles',d)
-      //    return !d.children || d.children.length === 0 ? "Company: " + d.data[0] + "\nTopic: " + d.parent.data[0] + "\nPropability: " + d3.format(".4f")(d.value) : 0;
-      // });
       
-      
-      //zoom(root);
       svg.on("click", () => zoom(root)); 
       zoomTo([root.x, root.y, root.r * 2 + margin]);
-
-      // if (!svg.on('click')) svg.on('click', function() {
-      //   zoom(root)
-      // });
-      
 
       function zoom(d) {
         var focus = d;
@@ -506,30 +464,23 @@
         var transition = d3.transition()
           .duration(d3.event && d3.event.altKey ? 7500 : 750)
           .tween("zoom", function(d) {
-            //console.log('focus',focus)
-            //console.log('oldFocus',oldFocus)//if (focus !== d.parent) {console.log('focus',focus)}
             const i = d3.interpolateZoom(
                 [oldFocus.x, oldFocus.y, oldFocus.r * 2 + margin],
                 [focus.x, focus.y, focus.r * 2 + margin]);
             oldFocus = focus;
             return function(t) {
-              //console.log(i(t))
               zoomTo(i(t));
             };
           });
 
         transition.selectAll("text")
           .filter(function(d) {
-            //console.log('d.parent === focus',d.parent === focus)
-            //console.log('text.transition', d)
             return d.parent === focus || this.style.display === "inline";
           })
           .style("fill-opacity", function(d) {
             return d.parent === focus ? 1 : 0;
           })
           .on("start", function(d) {
-            //console.log('start')
-            //console.log('d.parent === focus',d.parent === focus)
             if (d.parent === focus) this.style.display = "inline";
           })
           .on("end", function(d) {
@@ -545,14 +496,7 @@
           return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")";
         });
         text.attr("transform", function(d) {
-          //if ((d.height== 0) && ((d.x - v[0])==0) && ((d.y - v[1])==0)) {
-          //  console.log('d',d)
-          //  console.log('v',v)
-          //  console.log("translate(" + (d.x) * k + "," + (d.y) * k + ")")
-          //return "translate(0,0)";}
-          //else {
             return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")";
-          //}
         });
         circle.attr("r", function(d) {
           return d.r * k;

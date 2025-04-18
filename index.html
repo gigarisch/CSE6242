@@ -184,7 +184,7 @@
   
   
   <script type="text/javascript">
-    var alldata = "melted_df.csv";
+    var alldata = "melted_df2.csv";
     var fdata;
 
     // var margin_zoom = {top: 50, right: 50, bottom: 50, left: 50},
@@ -351,7 +351,7 @@
         root = makeHierarchy({
         data: fdata,
 
-        groupByFns: [d=>d.C_1, d=>d.topic, d => d['company name']],
+        groupByFns: [d=>d.cluster_name, d=>d.subcluster_name,d=>d.topic_name],
         reduceFn: v => d3.mean(v, d => d["size"])
         });
     

@@ -439,8 +439,8 @@
         .on("mouseover", function(d) {
             tooltipDiv.transition().delay(100).duration(500).style("opacity", 1);
             tooltipDiv.html(!d.children ? d.data[0] + ": " + d3.format(".4f")(d.data[1]) : d.data[0]); // Replace d.x with your desired tooltip text
-            tooltipDiv.style("left", d3.event.pageX - 5 + "px")
-            tooltipDiv.style("top", d3.event.pageY - 300+ "px")
+            tooltipDiv.style("left", d3.event.pageX - 20 + "px")
+            tooltipDiv.style("top", d3.event.pageY - 150+ "px")
 
 
         })
@@ -449,8 +449,8 @@
         })
       d3.select("#zoomable")
         .on("mousemove", function() {
-            tooltipDiv.style("left", d3.event.pageX -5 + "px")
-            tooltipDiv.style("top", d3.event.pageY -300+ "px")
+            tooltipDiv.style("left", d3.event.pageX - 20 + "px")
+            tooltipDiv.style("top", d3.event.pageY -150+ "px")
         });
       
       svg.on("click", () => zoom(root)); 

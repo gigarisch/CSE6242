@@ -187,23 +187,7 @@
     var alldata = "melted_df2.csv";
     var fdata;
 
-    // var margin_zoom = {top: 50, right: 50, bottom: 50, left: 50},
-    //     width = 1100 - margin_zoom.left - margin_zoom.right,
-    //     height = 1100 - margin_zoom.top - margin_zoom.bottom;
-
-    // var margin_header = {top: 10, right: 50, bottom: 50, left: 10},
-    //     width = 1100 - margin_header.left - margin_header.right,
-    //     height = 100 - margin_header.top - margin_header.bottom;
-
-    // var margin_header_filters = {top: 10, right: 50, bottom: 50, left: 10},
-    //     width = 600 - margin_header_filters.left - margin_header_filters.right,
-    //     height = 100 - margin_header_filters.top - margin_header_filters.bottom;
-
-    // var margin_header_filter_sector = {top: 10, right: 50, bottom: 50, left: 10},
-    //     width = 600 - margin_header_filter_sector.left - margin_header_filter_sector.right,
-    //     height = 100 - margin_header_filter_sector.top - margin_header_filter_sector.bottom;
-
-    const get_sets = function(data, field) { 
+       const get_sets = function(data, field) { 
         const values = data.map(d => d[field])
         return [...new Set(values)];
     }
@@ -288,12 +272,7 @@
       });
     };
 
-    // function removeOptions(selectbox) {
-    //   var i;
-    //   for (i = selectbox.options.length - 1; i >= 0; i--) {
-    //     selectbox.remove(i);
-    //   }
-    // };
+    
 
     makeHierarchy = (config) => {
     const defaultConfig = {
@@ -322,9 +301,7 @@
       .attr("width", 500)
       .attr("height", 300); 
 
-    // //added>>>>>>
-    // var format = d3.(",d");
-    // //>>>>>>>>>>>
+
 
     var color = d3.scaleLinear()
       .domain([-1, 5])
@@ -332,12 +309,7 @@
       .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
       .interpolate(d3.interpolateHcl);
 
-    // //added>>>>>>
-    // var stratify = d3.stratify()
-    //   .parentId(function(d) {
-    //     return d.id.substring(0, d.id.lastIndexOf("~"));
-    //   });
-    // //>>>>>>>>>>>
+  
 
     var pack = d3.pack()
       .size([diameter - margin, diameter - margin])

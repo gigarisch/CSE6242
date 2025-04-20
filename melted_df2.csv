@@ -41,7 +41,7 @@
 39,Communication Services,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.001239584751940744
 40,Communication Services,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.01401311110467907
 41,Communication Services,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.003018628373051405
-42,Communication Services,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0011236269723472214
+42,Communication Services,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.0011236269723472214
 43,Communication Services,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0015842402221396266
 44,Communication Services,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0029433878142256296
 45,Communication Services,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0010770256369451428
@@ -141,7 +141,7 @@
 139,Communication Services,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.001430746101427892
 140,Communication Services,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.014147653912013499
 141,Communication Services,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0036539389607905854
-142,Communication Services,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012001403266050632
+142,Communication Services,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.0012001403266050632
 143,Communication Services,2015,Economic & Financial,Client & Fund Services,Client Fees,0.0016469765434912046
 144,Communication Services,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.015206881673611181
 145,Communication Services,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0019261875253961931
@@ -241,7 +241,7 @@
 239,Communication Services,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.0023751941760641977
 240,Communication Services,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.010576317537639478
 241,Communication Services,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.003137952875432434
-242,Communication Services,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0017270929481408989
+242,Communication Services,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0017270929481408989
 243,Communication Services,2016,Economic & Financial,Client & Fund Services,Client Fees,0.001260503366801533
 244,Communication Services,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.014919385303187966
 245,Communication Services,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001784085065959993
@@ -341,7 +341,7 @@
 339,Communication Services,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.0031286184940167733
 340,Communication Services,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.009732412989405208
 341,Communication Services,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004222608462533673
-342,Communication Services,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0009851025349059057
+342,Communication Services,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.0009851025349059057
 343,Communication Services,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0015583910680221236
 344,Communication Services,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0028309442180918516
 345,Communication Services,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013536485536897562
@@ -441,7 +441,7 @@
 439,Communication Services,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.0041128528766306
 440,Communication Services,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.012367848012958121
 441,Communication Services,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004676365267354522
-442,Communication Services,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012918013338839567
+442,Communication Services,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.0012918013338839567
 443,Communication Services,2018,Economic & Financial,Client & Fund Services,Client Fees,0.002015952213471762
 444,Communication Services,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.001877637865451217
 445,Communication Services,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011038214078691905
@@ -541,7 +541,7 @@
 539,Communication Services,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.0063212201354645
 540,Communication Services,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.007214183353375307
 541,Communication Services,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.006558809925307004
-542,Communication Services,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.001261095591643004
+542,Communication Services,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.001261095591643004
 543,Communication Services,2019,Economic & Financial,Client & Fund Services,Client Fees,0.0015856418029814151
 544,Communication Services,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.001888235991365901
 545,Communication Services,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001436833114195334
@@ -641,7 +641,7 @@
 639,Communication Services,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.0024912377738530063
 640,Communication Services,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.0035907129427284862
 641,Communication Services,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0057135870018453485
-642,Communication Services,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0013930598336374552
+642,Communication Services,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.0013930598336374552
 643,Communication Services,2020,Economic & Financial,Client & Fund Services,Client Fees,0.001821153473304328
 644,Communication Services,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0021055599600181656
 645,Communication Services,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0018108159719512167
@@ -741,7 +741,7 @@
 739,Communication Services,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.003303959621889601
 740,Communication Services,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.002898313927360213
 741,Communication Services,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.00488121384994055
-742,Communication Services,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.001095092846717063
+742,Communication Services,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.001095092846717063
 743,Communication Services,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0015466029063546305
 744,Communication Services,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.001833324306709001
 745,Communication Services,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0015164053990208298
@@ -841,7 +841,7 @@
 839,Communication Services,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.002877396201309522
 840,Communication Services,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.00331129280192809
 841,Communication Services,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005013027733304387
-842,Communication Services,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012244159372165344
+842,Communication Services,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.0012244159372165344
 843,Communication Services,2022,Economic & Financial,Client & Fund Services,Client Fees,0.004162965479917837
 844,Communication Services,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0016562791462537427
 845,Communication Services,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016490879904787314
@@ -941,7 +941,7 @@
 939,Communication Services,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.003016313935911101
 940,Communication Services,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0032866243097052447
 941,Communication Services,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0038818394380143967
-942,Communication Services,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012469848074014055
+942,Communication Services,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.0012469848074014055
 943,Communication Services,2023,Economic & Financial,Client & Fund Services,Client Fees,0.0019676011267708974
 944,Communication Services,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0017725522328140505
 945,Communication Services,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0017931455828300033
@@ -1041,7 +1041,7 @@
 1039,Communication Services,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.003810694592114434
 1040,Communication Services,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0025066059566756023
 1041,Communication Services,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0038379062438418554
-1042,Communication Services,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0014029148652171847
+1042,Communication Services,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.0014029148652171847
 1043,Communication Services,2024,Economic & Financial,Client & Fund Services,Client Fees,0.001788836425026346
 1044,Communication Services,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0021417066271098716
 1045,Communication Services,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002120896692677406
@@ -1141,7 +1141,7 @@
 1139,Consumer Discretionary,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.00267232717249076
 1140,Consumer Discretionary,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.018968692482584905
 1141,Consumer Discretionary,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0020862220413746862
-1142,Consumer Discretionary,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.00299396702918803
+1142,Consumer Discretionary,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.00299396702918803
 1143,Consumer Discretionary,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0012966658322552734
 1144,Consumer Discretionary,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.004931979961172673
 1145,Consumer Discretionary,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001593702139669503
@@ -1241,7 +1241,7 @@
 1239,Consumer Discretionary,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.001937135917626483
 1240,Consumer Discretionary,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.01962812307007682
 1241,Consumer Discretionary,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0022348842827048876
-1242,Consumer Discretionary,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002488412615744025
+1242,Consumer Discretionary,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.002488412615744025
 1243,Consumer Discretionary,2015,Economic & Financial,Client & Fund Services,Client Fees,0.0011797195732973116
 1244,Consumer Discretionary,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.02070086862608525
 1245,Consumer Discretionary,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001513493933785317
@@ -1341,7 +1341,7 @@
 1339,Consumer Discretionary,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.0020882045532857716
 1340,Consumer Discretionary,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.020728705155424437
 1341,Consumer Discretionary,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0022657281916919313
-1342,Consumer Discretionary,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0048078439672157
+1342,Consumer Discretionary,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0048078439672157
 1343,Consumer Discretionary,2016,Economic & Financial,Client & Fund Services,Client Fees,0.001210373667054051
 1344,Consumer Discretionary,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.01546085479979542
 1345,Consumer Discretionary,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0017068172591889344
@@ -1441,7 +1441,7 @@
 1439,Consumer Discretionary,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.0025963726669309193
 1440,Consumer Discretionary,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.02876229737374477
 1441,Consumer Discretionary,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.001756297016633746
-1442,Consumer Discretionary,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002675666160737706
+1442,Consumer Discretionary,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.002675666160737706
 1443,Consumer Discretionary,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0011423721316757623
 1444,Consumer Discretionary,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.003811052563767585
 1445,Consumer Discretionary,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0020738889543699232
@@ -1541,7 +1541,7 @@
 1539,Consumer Discretionary,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.0028612600290383663
 1540,Consumer Discretionary,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.030677092383144585
 1541,Consumer Discretionary,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0017719969766047414
-1542,Consumer Discretionary,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.02198052273218813
+1542,Consumer Discretionary,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.02198052273218813
 1543,Consumer Discretionary,2018,Economic & Financial,Client & Fund Services,Client Fees,0.0012040354125644505
 1544,Consumer Discretionary,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0037040909246504653
 1545,Consumer Discretionary,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0018486453304330408
@@ -1641,7 +1641,7 @@
 1639,Consumer Discretionary,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.002282875115958547
 1640,Consumer Discretionary,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.032012394785370595
 1641,Consumer Discretionary,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0024482437356447328
-1642,Consumer Discretionary,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.029024562737836834
+1642,Consumer Discretionary,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.029024562737836834
 1643,Consumer Discretionary,2019,Economic & Financial,Client & Fund Services,Client Fees,0.0011045092723850599
 1644,Consumer Discretionary,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0026827484307686725
 1645,Consumer Discretionary,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0028833275895224423
@@ -1741,7 +1741,7 @@
 1739,Consumer Discretionary,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.0028172128573262633
 1740,Consumer Discretionary,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.025254462189300282
 1741,Consumer Discretionary,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0022535693223819033
-1742,Consumer Discretionary,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.011034465969138065
+1742,Consumer Discretionary,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.011034465969138065
 1743,Consumer Discretionary,2020,Economic & Financial,Client & Fund Services,Client Fees,0.001189038365741479
 1744,Consumer Discretionary,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002113093359752298
 1745,Consumer Discretionary,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002777919854980637
@@ -1841,7 +1841,7 @@
 1839,Consumer Discretionary,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.002794468494186657
 1840,Consumer Discretionary,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.02652426243202372
 1841,Consumer Discretionary,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002809062400096495
-1842,Consumer Discretionary,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0030198173496068987
+1842,Consumer Discretionary,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.0030198173496068987
 1843,Consumer Discretionary,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0014905915395471772
 1844,Consumer Discretionary,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0019672716045686794
 1845,Consumer Discretionary,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001927050165048124
@@ -1941,7 +1941,7 @@
 1939,Consumer Discretionary,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.003677771942545596
 1940,Consumer Discretionary,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0341392956726672
 1941,Consumer Discretionary,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0027447964430508463
-1942,Consumer Discretionary,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0029660817917649385
+1942,Consumer Discretionary,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.0029660817917649385
 1943,Consumer Discretionary,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0013291348900269736
 1944,Consumer Discretionary,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0021255551941230656
 1945,Consumer Discretionary,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001686306901604856
@@ -2041,7 +2041,7 @@
 2039,Consumer Discretionary,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.00305079975028267
 2040,Consumer Discretionary,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0417072634972714
 2041,Consumer Discretionary,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002873022877073522
-2042,Consumer Discretionary,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.003098937703209164
+2042,Consumer Discretionary,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.003098937703209164
 2043,Consumer Discretionary,2023,Economic & Financial,Client & Fund Services,Client Fees,0.002148622627409497
 2044,Consumer Discretionary,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0020528623907923853
 2045,Consumer Discretionary,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002729087506913527
@@ -2141,7 +2141,7 @@
 2139,Consumer Discretionary,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.0037528137261698133
 2140,Consumer Discretionary,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.04265610204981921
 2141,Consumer Discretionary,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002705456369678157
-2142,Consumer Discretionary,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.009733534303355721
+2142,Consumer Discretionary,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.009733534303355721
 2143,Consumer Discretionary,2024,Economic & Financial,Client & Fund Services,Client Fees,0.0020396196539578877
 2144,Consumer Discretionary,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002236892957952975
 2145,Consumer Discretionary,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016447640446211533
@@ -2241,7 +2241,7 @@
 2239,Consumer Staples,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.0033625686337233796
 2240,Consumer Staples,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.0018200773535939887
 2241,Consumer Staples,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0011780148140408911
-2242,Consumer Staples,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.012564119545418034
+2242,Consumer Staples,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.012564119545418034
 2243,Consumer Staples,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0013376260869406413
 2244,Consumer Staples,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0038227621909597115
 2245,Consumer Staples,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002002954434020338
@@ -2341,7 +2341,7 @@
 2339,Consumer Staples,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.003435593869792091
 2340,Consumer Staples,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.0015705264004763464
 2341,Consumer Staples,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0016778938249726707
-2342,Consumer Staples,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.011337898887652504
+2342,Consumer Staples,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.011337898887652504
 2343,Consumer Staples,2015,Economic & Financial,Client & Fund Services,Client Fees,0.0010424213730486258
 2344,Consumer Staples,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.018338369407367147
 2345,Consumer Staples,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002068147351526805
@@ -2441,7 +2441,7 @@
 2439,Consumer Staples,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.0030005430957275266
 2440,Consumer Staples,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.0016551525339561675
 2441,Consumer Staples,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0012216909304224352
-2442,Consumer Staples,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.008910277328087884
+2442,Consumer Staples,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.008910277328087884
 2443,Consumer Staples,2016,Economic & Financial,Client & Fund Services,Client Fees,0.0009339427514494105
 2444,Consumer Staples,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.021467049472727998
 2445,Consumer Staples,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0014895421032671077
@@ -2541,7 +2541,7 @@
 2539,Consumer Staples,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.002896496846179521
 2540,Consumer Staples,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.0017716751259827768
 2541,Consumer Staples,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.001788271884853997
-2542,Consumer Staples,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.011918618507970007
+2542,Consumer Staples,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.011918618507970007
 2543,Consumer Staples,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0009920907838056648
 2544,Consumer Staples,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0025583640170867643
 2545,Consumer Staples,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001551995194842465
@@ -2641,7 +2641,7 @@
 2639,Consumer Staples,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.0028397514781221497
 2640,Consumer Staples,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.001881947892769106
 2641,Consumer Staples,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0018895639792238593
-2642,Consumer Staples,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.016441708191195267
+2642,Consumer Staples,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.016441708191195267
 2643,Consumer Staples,2018,Economic & Financial,Client & Fund Services,Client Fees,0.0009402377012973702
 2644,Consumer Staples,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0022447682357999645
 2645,Consumer Staples,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002206058083373627
@@ -2741,7 +2741,7 @@
 2739,Consumer Staples,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.0029189501081751854
 2740,Consumer Staples,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.0014624488181340608
 2741,Consumer Staples,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.001149257100140811
-2742,Consumer Staples,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.026888463097152603
+2742,Consumer Staples,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.026888463097152603
 2743,Consumer Staples,2019,Economic & Financial,Client & Fund Services,Client Fees,0.0010294353833005916
 2744,Consumer Staples,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0024225869397992705
 2745,Consumer Staples,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012678028295884305
@@ -2841,7 +2841,7 @@
 2839,Consumer Staples,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.002863767647369215
 2840,Consumer Staples,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.0015197967754699232
 2841,Consumer Staples,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0011841276157476255
-2842,Consumer Staples,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.016686915080904516
+2842,Consumer Staples,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.016686915080904516
 2843,Consumer Staples,2020,Economic & Financial,Client & Fund Services,Client Fees,0.001112266068350926
 2844,Consumer Staples,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0013394643654761958
 2845,Consumer Staples,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0014078324488989683
@@ -2941,7 +2941,7 @@
 2939,Consumer Staples,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.0023886967615252773
 2940,Consumer Staples,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.0016164466896395886
 2941,Consumer Staples,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0012886442178468638
-2942,Consumer Staples,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.010434968072639515
+2942,Consumer Staples,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.010434968072639515
 2943,Consumer Staples,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0011148412066122547
 2944,Consumer Staples,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.001634677249886822
 2945,Consumer Staples,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013476751853035462
@@ -3041,7 +3041,7 @@
 3039,Consumer Staples,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.002550281048943365
 3040,Consumer Staples,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.001651223302557068
 3041,Consumer Staples,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0013142601596691
-3042,Consumer Staples,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.011753987356276202
+3042,Consumer Staples,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.011753987356276202
 3043,Consumer Staples,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0011034918148505454
 3044,Consumer Staples,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0016515570792442476
 3045,Consumer Staples,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0017650891400522242
@@ -3141,7 +3141,7 @@
 3139,Consumer Staples,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.0039913637024491045
 3140,Consumer Staples,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.001433281657320685
 3141,Consumer Staples,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0012419432671098637
-3142,Consumer Staples,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.012470256043794387
+3142,Consumer Staples,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.012470256043794387
 3143,Consumer Staples,2023,Economic & Financial,Client & Fund Services,Client Fees,0.001493815256005536
 3144,Consumer Staples,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0017620450976071824
 3145,Consumer Staples,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0015267278586357344
@@ -3241,7 +3241,7 @@
 3239,Consumer Staples,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.004569438669160507
 3240,Consumer Staples,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0014927827250721993
 3241,Consumer Staples,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0013048666291808446
-3242,Consumer Staples,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.016005364725566577
+3242,Consumer Staples,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.016005364725566577
 3243,Consumer Staples,2024,Economic & Financial,Client & Fund Services,Client Fees,0.0012955190179069116
 3244,Consumer Staples,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0018162782537098764
 3245,Consumer Staples,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002337296962744824
@@ -3341,7 +3341,7 @@
 3339,Energy,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.006442832059920897
 3340,Energy,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.0014864083139470691
 3341,Energy,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0015106883210861195
-3342,Energy,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0019751309045245094
+3342,Energy,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.0019751309045245094
 3343,Energy,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0013120507683710102
 3344,Energy,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.005392378788563527
 3345,Energy,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0019197665665159607
@@ -3441,7 +3441,7 @@
 3439,Energy,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.007139985487584162
 3440,Energy,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.0014508008769253391
 3441,Energy,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0012324661534929204
-3442,Energy,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0019468489289026602
+3442,Energy,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.0019468489289026602
 3443,Energy,2015,Economic & Financial,Client & Fund Services,Client Fees,0.001163555983950183
 3444,Energy,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.03974924273221695
 3445,Energy,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012715909170655847
@@ -3541,7 +3541,7 @@
 3539,Energy,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.007649746077273971
 3540,Energy,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.001515818063194342
 3541,Energy,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0015653590101396982
-3542,Energy,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0017370791543992723
+3542,Energy,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0017370791543992723
 3543,Energy,2016,Economic & Financial,Client & Fund Services,Client Fees,0.0013412626561585303
 3544,Energy,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0213759184944139
 3545,Energy,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001040132643559241
@@ -3641,7 +3641,7 @@
 3639,Energy,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.00833080741794729
 3640,Energy,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.001240824873197279
 3641,Energy,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0015997242103933228
-3642,Energy,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.00211044737117948
+3642,Energy,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.00211044737117948
 3643,Energy,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0012317312743756915
 3644,Energy,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0029263790714046983
 3645,Energy,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0010786118880399876
@@ -3741,7 +3741,7 @@
 3739,Energy,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.010231202610473
 3740,Energy,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.0012445921211688405
 3741,Energy,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0019042410639928049
-3742,Energy,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.003145708960639104
+3742,Energy,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.003145708960639104
 3743,Energy,2018,Economic & Financial,Client & Fund Services,Client Fees,0.001397639945529249
 3744,Energy,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0027424196073517738
 3745,Energy,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011805800898654212
@@ -3841,7 +3841,7 @@
 3839,Energy,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.010799073946325809
 3840,Energy,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.0012877237204116472
 3841,Energy,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.003045901804416114
-3842,Energy,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002911716351941429
+3842,Energy,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.002911716351941429
 3843,Energy,2019,Economic & Financial,Client & Fund Services,Client Fees,0.001653900492995551
 3844,Energy,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002704383082320356
 3845,Energy,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016432788995046554
@@ -3941,7 +3941,7 @@
 3939,Energy,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.02442240912171615
 3940,Energy,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.0013038810396144834
 3941,Energy,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002734966959409505
-3942,Energy,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0029697134431717134
+3942,Energy,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.0029697134431717134
 3943,Energy,2020,Economic & Financial,Client & Fund Services,Client Fees,0.001393029711573767
 3944,Energy,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0029260056704912296
 3945,Energy,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012890724938520455
@@ -4041,7 +4041,7 @@
 4039,Energy,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.020689900753910345
 4040,Energy,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.00169425840732508
 4041,Energy,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002105368585538892
-4042,Energy,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0020559986475417367
+4042,Energy,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.0020559986475417367
 4043,Energy,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0011800769335147683
 4044,Energy,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0026025053946053035
 4045,Energy,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0024285467389165236
@@ -4141,7 +4141,7 @@
 4139,Energy,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.013778398373735153
 4140,Energy,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0017881642609506117
 4141,Energy,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0016418949491234282
-4142,Energy,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0021266337754481768
+4142,Energy,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.0021266337754481768
 4143,Energy,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0014431694978517223
 4144,Energy,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0022164932147516847
 4145,Energy,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0014358317130318658
@@ -4241,7 +4241,7 @@
 4239,Energy,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.011804841207194106
 4240,Energy,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0010991047769696612
 4241,Energy,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0017523546910028364
-4242,Energy,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002521551468663333
+4242,Energy,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.002521551468663333
 4243,Energy,2023,Economic & Financial,Client & Fund Services,Client Fees,0.0025190414244822376
 4244,Energy,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002590926923897742
 4245,Energy,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013301011512921916
@@ -4341,7 +4341,7 @@
 4339,Energy,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.01767216133743346
 4340,Energy,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0016488712442749083
 4341,Energy,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0023301630809403734
-4342,Energy,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0058465823924080205
+4342,Energy,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.0058465823924080205
 4343,Energy,2024,Economic & Financial,Client & Fund Services,Client Fees,0.0012592313067330265
 4344,Energy,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0021618572178941737
 4345,Energy,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013905628813651843
@@ -4441,7 +4441,7 @@
 4439,Financials,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.002566170798585838
 4440,Financials,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.0029545047620392504
 4441,Financials,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0022518514643158458
-4442,Financials,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0011396069954837046
+4442,Financials,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.0011396069954837046
 4443,Financials,2014,Economic & Financial,Client & Fund Services,Client Fees,0.06250665591824672
 4444,Financials,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.00339678646138897
 4445,Financials,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001258447561246403
@@ -4541,7 +4541,7 @@
 4539,Financials,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.0037472577120943587
 4540,Financials,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.0033271591911078137
 4541,Financials,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002554717100882853
-4542,Financials,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.001037904853075296
+4542,Financials,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.001037904853075296
 4543,Financials,2015,Economic & Financial,Client & Fund Services,Client Fees,0.06218740644987541
 4544,Financials,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.022562656563700864
 4545,Financials,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0014379806856402806
@@ -4641,7 +4641,7 @@
 4639,Financials,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.0058895994905552845
 4640,Financials,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.0026035544256723902
 4641,Financials,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0024418210429671353
-4642,Financials,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012357380454592237
+4642,Financials,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0012357380454592237
 4643,Financials,2016,Economic & Financial,Client & Fund Services,Client Fees,0.05850161782247529
 4644,Financials,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.015474830729376415
 4645,Financials,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0014488174936386105
@@ -4741,7 +4741,7 @@
 4739,Financials,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.0049400411523149125
 4740,Financials,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.003502680300256129
 4741,Financials,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0020906918382724397
-4742,Financials,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012861932322138956
+4742,Financials,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.0012861932322138956
 4743,Financials,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0714526113914745
 4744,Financials,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002957958623007175
 4745,Financials,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001604070208367828
@@ -4841,7 +4841,7 @@
 4839,Financials,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.003622832604946874
 4840,Financials,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.00294096431962135
 4841,Financials,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0022536778261595092
-4842,Financials,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.003002028119016661
+4842,Financials,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.003002028119016661
 4843,Financials,2018,Economic & Financial,Client & Fund Services,Client Fees,0.0691598624237441
 4844,Financials,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0021504676795968455
 4845,Financials,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016042031368961862
@@ -4941,7 +4941,7 @@
 4939,Financials,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.003111390905503092
 4940,Financials,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.003260659626971039
 4941,Financials,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002243718263529172
-4942,Financials,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002035524110942305
+4942,Financials,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.002035524110942305
 4943,Financials,2019,Economic & Financial,Client & Fund Services,Client Fees,0.07230330320135743
 4944,Financials,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0016474679754313313
 4945,Financials,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0023742153539794628
@@ -5041,7 +5041,7 @@
 5039,Financials,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.0026694470409715596
 5040,Financials,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.006058652474473838
 5041,Financials,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0016269324745357388
-5042,Financials,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0010172765172655348
+5042,Financials,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.0010172765172655348
 5043,Financials,2020,Economic & Financial,Client & Fund Services,Client Fees,0.06383385972212144
 5044,Financials,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0015484684482311051
 5045,Financials,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001647093203186382
@@ -5141,7 +5141,7 @@
 5139,Financials,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.0032651721844476774
 5140,Financials,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.004675502964522259
 5141,Financials,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0017790787779039493
-5142,Financials,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012649063714005053
+5142,Financials,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.0012649063714005053
 5143,Financials,2021,Economic & Financial,Client & Fund Services,Client Fees,0.07516317862134367
 5144,Financials,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0018308483152271917
 5145,Financials,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001714687779354859
@@ -5241,7 +5241,7 @@
 5239,Financials,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.0022902498123166123
 5240,Financials,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0034597029920367325
 5241,Financials,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0020610912329326065
-5242,Financials,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0010252134137504415
+5242,Financials,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.0010252134137504415
 5243,Financials,2022,Economic & Financial,Client & Fund Services,Client Fees,0.08875926213110291
 5244,Financials,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0017021118714379288
 5245,Financials,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0017780842375390736
@@ -5341,7 +5341,7 @@
 5339,Financials,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.0026161264089104843
 5340,Financials,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0026785019484454105
 5341,Financials,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0020924297104256266
-5342,Financials,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012797667666427889
+5342,Financials,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.0012797667666427889
 5343,Financials,2023,Economic & Financial,Client & Fund Services,Client Fees,0.0977037770334287
 5344,Financials,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0019936266722881753
 5345,Financials,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012922384237566635
@@ -5441,7 +5441,7 @@
 5439,Financials,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.003155334162652952
 5440,Financials,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0022855994308764904
 5441,Financials,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002137265460391355
-5442,Financials,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002425737940533311
+5442,Financials,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.002425737940533311
 5443,Financials,2024,Economic & Financial,Client & Fund Services,Client Fees,0.0974561615683723
 5444,Financials,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0018116353481184694
 5445,Financials,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012772770782973647
@@ -5541,7 +5541,7 @@
 5539,Health Care,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.0022636448666931287
 5540,Health Care,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.0020561183695889567
 5541,Health Care,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0028949711387337308
-5542,Health Care,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0014740569289883425
+5542,Health Care,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.0014740569289883425
 5543,Health Care,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0024332438912756105
 5544,Health Care,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.004407102336108469
 5545,Health Care,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0015904602663206042
@@ -5641,7 +5641,7 @@
 5639,Health Care,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.002301807677699043
 5640,Health Care,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.001810026581078705
 5641,Health Care,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0032050355886608334
-5642,Health Care,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.001233707625895365
+5642,Health Care,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.001233707625895365
 5643,Health Care,2015,Economic & Financial,Client & Fund Services,Client Fees,0.0013231305468736196
 5644,Health Care,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.024690822559040954
 5645,Health Care,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0010533508695111107
@@ -5741,7 +5741,7 @@
 5739,Health Care,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.002296239244730032
 5740,Health Care,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.0023117975359281473
 5741,Health Care,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0030227610224393625
-5742,Health Care,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0016198677106033883
+5742,Health Care,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0016198677106033883
 5743,Health Care,2016,Economic & Financial,Client & Fund Services,Client Fees,0.001442508337422419
 5744,Health Care,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0195348624810719
 5745,Health Care,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016702443870668293
@@ -5841,7 +5841,7 @@
 5839,Health Care,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.00219130623557585
 5840,Health Care,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.0019913912308857965
 5841,Health Care,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005523261062105568
-5842,Health Care,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0014670002863451034
+5842,Health Care,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.0014670002863451034
 5843,Health Care,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0015119759516381084
 5844,Health Care,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0028663617006795014
 5845,Health Care,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016200426020611556
@@ -5941,7 +5941,7 @@
 5939,Health Care,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.0020634127919227276
 5940,Health Care,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.0017076153302991537
 5941,Health Care,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005006848113842528
-5942,Health Care,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.00847781045603715
+5942,Health Care,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.00847781045603715
 5943,Health Care,2018,Economic & Financial,Client & Fund Services,Client Fees,0.001182549603435489
 5944,Health Care,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002219048288022226
 5945,Health Care,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0018922230108054142
@@ -6041,7 +6041,7 @@
 6039,Health Care,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.0021004467308786937
 6040,Health Care,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.001812546926518737
 6041,Health Care,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005074088468740847
-6042,Health Care,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0077439173095924935
+6042,Health Care,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.0077439173095924935
 6043,Health Care,2019,Economic & Financial,Client & Fund Services,Client Fees,0.0015838691168569678
 6044,Health Care,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002148132367530664
 6045,Health Care,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0020487769913767823
@@ -6141,7 +6141,7 @@
 6139,Health Care,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.0025608400976958956
 6140,Health Care,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.0015111941629358885
 6141,Health Care,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005550780418288847
-6142,Health Care,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002082913751828792
+6142,Health Care,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.002082913751828792
 6143,Health Care,2020,Economic & Financial,Client & Fund Services,Client Fees,0.0011135070275712354
 6144,Health Care,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002290306319808628
 6145,Health Care,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0010892481397320858
@@ -6241,7 +6241,7 @@
 6239,Health Care,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.0019949189014977107
 6240,Health Care,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.0015701431501418772
 6241,Health Care,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.008339650215549383
-6242,Health Care,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0011608691649077011
+6242,Health Care,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.0011608691649077011
 6243,Health Care,2021,Economic & Financial,Client & Fund Services,Client Fees,0.001258563619639772
 6244,Health Care,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002550010568939981
 6245,Health Care,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016169258420411189
@@ -6341,7 +6341,7 @@
 6339,Health Care,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.0021569791054219115
 6340,Health Care,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.001534622662360776
 6341,Health Care,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005547429171514873
-6342,Health Care,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0018339010798634082
+6342,Health Care,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.0018339010798634082
 6343,Health Care,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0014328822589851232
 6344,Health Care,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.001998393353665969
 6345,Health Care,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012804526140882564
@@ -6441,7 +6441,7 @@
 6439,Health Care,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.004583679985686823
 6440,Health Care,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0014650210329081596
 6441,Health Care,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0042634202898299955
-6442,Health Care,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.001441488505845625
+6442,Health Care,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.001441488505845625
 6443,Health Care,2023,Economic & Financial,Client & Fund Services,Client Fees,0.0020815223238678042
 6444,Health Care,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0021415725189546492
 6445,Health Care,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011221460099518834
@@ -6541,7 +6541,7 @@
 6539,Health Care,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.0019953743076415328
 6540,Health Care,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0017296566275365607
 6541,Health Care,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0035748805391142505
-6542,Health Care,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004405393435482539
+6542,Health Care,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.004405393435482539
 6543,Health Care,2024,Economic & Financial,Client & Fund Services,Client Fees,0.0018296343211534197
 6544,Health Care,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0019916754411219728
 6545,Health Care,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011745752282149057
@@ -6641,7 +6641,7 @@
 6639,Industrials,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.0071956899644034285
 6640,Industrials,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.0014479122824825929
 6641,Industrials,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0020395594204040083
-6642,Industrials,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004991870341769416
+6642,Industrials,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.004991870341769416
 6643,Industrials,2014,Economic & Financial,Client & Fund Services,Client Fees,0.001438009657377934
 6644,Industrials,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.005120158601265917
 6645,Industrials,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.034920695763925126
@@ -6741,7 +6741,7 @@
 6739,Industrials,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.00740741967588258
 6740,Industrials,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.0013724910959016729
 6741,Industrials,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0021818806977559366
-6742,Industrials,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.005795811723942057
+6742,Industrials,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.005795811723942057
 6743,Industrials,2015,Economic & Financial,Client & Fund Services,Client Fees,0.0013879329881116911
 6744,Industrials,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.020718884416461053
 6745,Industrials,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.04286242300420642
@@ -6841,7 +6841,7 @@
 6839,Industrials,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.007894919356742787
 6840,Industrials,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.0014300949472504515
 6841,Industrials,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0030778000566677476
-6842,Industrials,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.007860292114057029
+6842,Industrials,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.007860292114057029
 6843,Industrials,2016,Economic & Financial,Client & Fund Services,Client Fees,0.0012685490134005347
 6844,Industrials,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.02034063006053863
 6845,Industrials,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.054219827114468384
@@ -6941,7 +6941,7 @@
 6939,Industrials,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.009640796951590197
 6940,Industrials,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.0016173862239240314
 6941,Industrials,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0023542967060571863
-6942,Industrials,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.008299501956175872
+6942,Industrials,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.008299501956175872
 6943,Industrials,2017,Economic & Financial,Client & Fund Services,Client Fees,0.001646954237031857
 6944,Industrials,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.003220296029372536
 6945,Industrials,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.05922177058047869
@@ -7041,7 +7041,7 @@
 7039,Industrials,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.009109452728614397
 7040,Industrials,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.0021913830871317223
 7041,Industrials,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0035187164440403378
-7042,Industrials,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.032409637497391515
+7042,Industrials,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.032409637497391515
 7043,Industrials,2018,Economic & Financial,Client & Fund Services,Client Fees,0.0028407682815986724
 7044,Industrials,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0031452093863778346
 7045,Industrials,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.05745070750531034
@@ -7141,7 +7141,7 @@
 7139,Industrials,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.007197409122403247
 7140,Industrials,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.0020024944016253663
 7141,Industrials,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005023602260351563
-7142,Industrials,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.02798710520816712
+7142,Industrials,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.02798710520816712
 7143,Industrials,2019,Economic & Financial,Client & Fund Services,Client Fees,0.004437471193869511
 7144,Industrials,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0024931811029363367
 7145,Industrials,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.05670858420596973
@@ -7241,7 +7241,7 @@
 7239,Industrials,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.00896944017166718
 7240,Industrials,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.0020052784393546587
 7241,Industrials,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.007228419283956394
-7242,Industrials,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.006682496496305909
+7242,Industrials,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.006682496496305909
 7243,Industrials,2020,Economic & Financial,Client & Fund Services,Client Fees,0.0030677580099896865
 7244,Industrials,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0022238481202367477
 7245,Industrials,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.04415239890357391
@@ -7341,7 +7341,7 @@
 7339,Industrials,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.011203767730214455
 7340,Industrials,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.00189218492896455
 7341,Industrials,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.005135278738912397
-7342,Industrials,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.005132883553417663
+7342,Industrials,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.005132883553417663
 7343,Industrials,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0032514389791551287
 7344,Industrials,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002525711037728487
 7345,Industrials,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.04946211020690071
@@ -7441,7 +7441,7 @@
 7439,Industrials,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.011511844150545255
 7440,Industrials,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0016001001262055826
 7441,Industrials,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0037957387806618783
-7442,Industrials,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.005137761774878285
+7442,Industrials,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.005137761774878285
 7443,Industrials,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0030070757013558507
 7444,Industrials,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.00241633483897861
 7445,Industrials,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.05429324505081676
@@ -7541,7 +7541,7 @@
 7539,Industrials,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.011930448399148284
 7540,Industrials,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0017162355552004071
 7541,Industrials,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004259284661452647
-7542,Industrials,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.005759768608167822
+7542,Industrials,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.005759768608167822
 7543,Industrials,2023,Economic & Financial,Client & Fund Services,Client Fees,0.0035956888361692962
 7544,Industrials,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002552210127252755
 7545,Industrials,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.04840524315355964
@@ -7641,7 +7641,7 @@
 7639,Industrials,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.012921852250428318
 7640,Industrials,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0017544166585137593
 7641,Industrials,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004825030648911751
-7642,Industrials,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.012940834976212179
+7642,Industrials,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.012940834976212179
 7643,Industrials,2024,Economic & Financial,Client & Fund Services,Client Fees,0.003682472333089632
 7644,Industrials,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002414297477286913
 7645,Industrials,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.041710663121017864
@@ -7741,7 +7741,7 @@
 7739,Information Technology,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.0039042798000771227
 7740,Information Technology,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.0014490026176309163
 7741,Information Technology,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0065688692793093905
-7742,Information Technology,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0011800014108305165
+7742,Information Technology,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.0011800014108305165
 7743,Information Technology,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0037168257163137566
 7744,Information Technology,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.004493911934806345
 7745,Information Technology,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001763565580677319
@@ -7841,7 +7841,7 @@
 7839,Information Technology,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.004126307069202236
 7840,Information Technology,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.0013709762818847763
 7841,Information Technology,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.00545233071740431
-7842,Information Technology,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012458866194541745
+7842,Information Technology,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.0012458866194541745
 7843,Information Technology,2015,Economic & Financial,Client & Fund Services,Client Fees,0.0036020768342317723
 7844,Information Technology,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.018272452530281653
 7845,Information Technology,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0019204049050078858
@@ -7941,7 +7941,7 @@
 7939,Information Technology,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.005023080584449542
 7940,Information Technology,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.0017677741939854557
 7941,Information Technology,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004543745610789323
-7942,Information Technology,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.00120172032330914
+7942,Information Technology,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.00120172032330914
 7943,Information Technology,2016,Economic & Financial,Client & Fund Services,Client Fees,0.0046787860285845235
 7944,Information Technology,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0228655311030139
 7945,Information Technology,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001591687322293282
@@ -8041,7 +8041,7 @@
 8039,Information Technology,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.003290326638921693
 8040,Information Technology,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.0013934216419039444
 8041,Information Technology,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.003587769517521257
-8042,Information Technology,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012834009066555166
+8042,Information Technology,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.0012834009066555166
 8043,Information Technology,2017,Economic & Financial,Client & Fund Services,Client Fees,0.004018714778525639
 8044,Information Technology,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.00512914967900218
 8045,Information Technology,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0018244668906881249
@@ -8141,7 +8141,7 @@
 8139,Information Technology,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.0028218223164902076
 8140,Information Technology,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.001892727283655799
 8141,Information Technology,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0040674653828984934
-8142,Information Technology,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.008100863716578236
+8142,Information Technology,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.008100863716578236
 8143,Information Technology,2018,Economic & Financial,Client & Fund Services,Client Fees,0.004486735777058944
 8144,Information Technology,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0026924663131497194
 8145,Information Technology,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013359570572182475
@@ -8241,7 +8241,7 @@
 8239,Information Technology,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.003720608676197005
 8240,Information Technology,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.0015811807619342136
 8241,Information Technology,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004336131972613835
-8242,Information Technology,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.008691393107012904
+8242,Information Technology,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.008691393107012904
 8243,Information Technology,2019,Economic & Financial,Client & Fund Services,Client Fees,0.0030755419138590464
 8244,Information Technology,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002303147459855888
 8245,Information Technology,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0014354952592934762
@@ -8341,7 +8341,7 @@
 8339,Information Technology,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.002981685428911107
 8340,Information Technology,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.0015817737151238192
 8341,Information Technology,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004132873852186129
-8342,Information Technology,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.00383785325547811
+8342,Information Technology,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.00383785325547811
 8343,Information Technology,2020,Economic & Financial,Client & Fund Services,Client Fees,0.0024529424967383753
 8344,Information Technology,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0022016422704851553
 8345,Information Technology,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0018721347796145816
@@ -8441,7 +8441,7 @@
 8439,Information Technology,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.005399142456166267
 8440,Information Technology,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.0015474505695631034
 8441,Information Technology,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0038989065861449674
-8442,Information Technology,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0022568240170200305
+8442,Information Technology,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.0022568240170200305
 8443,Information Technology,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0020923072020278552
 8444,Information Technology,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0023952262986429136
 8445,Information Technology,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002100807436186849
@@ -8541,7 +8541,7 @@
 8539,Information Technology,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.005654574228110179
 8540,Information Technology,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0014152258429946684
 8541,Information Technology,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0031532179875691955
-8542,Information Technology,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002243481234682862
+8542,Information Technology,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.002243481234682862
 8543,Information Technology,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0026487946212374745
 8544,Information Technology,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0022141223566015666
 8545,Information Technology,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002248196720791308
@@ -8641,7 +8641,7 @@
 8639,Information Technology,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.006164422127777207
 8640,Information Technology,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0013966098687114615
 8641,Information Technology,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0036191208346031413
-8642,Information Technology,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0018343325633716741
+8642,Information Technology,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.0018343325633716741
 8643,Information Technology,2023,Economic & Financial,Client & Fund Services,Client Fees,0.002535408796226673
 8644,Information Technology,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0020857445170653485
 8645,Information Technology,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016791214034000935
@@ -8741,7 +8741,7 @@
 8739,Information Technology,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.005795362708921312
 8740,Information Technology,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0012705695444004412
 8741,Information Technology,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.003882331650028123
-8742,Information Technology,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004911027046271947
+8742,Information Technology,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.004911027046271947
 8743,Information Technology,2024,Economic & Financial,Client & Fund Services,Client Fees,0.0025200081684496984
 8744,Information Technology,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0017340314831116755
 8745,Information Technology,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0014706079419771747
@@ -8841,7 +8841,7 @@
 8839,Materials,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.005663582278914056
 8840,Materials,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.002052244582078502
 8841,Materials,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.001979165424048026
-8842,Materials,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0026734763117209747
+8842,Materials,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.0026734763117209747
 8843,Materials,2014,Economic & Financial,Client & Fund Services,Client Fees,0.001148826118341298
 8844,Materials,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0053971286833856946
 8845,Materials,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.003371834881931461
@@ -8941,7 +8941,7 @@
 8939,Materials,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.010420548901690438
 8940,Materials,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.0015080289160794126
 8941,Materials,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0013210098492021209
-8942,Materials,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.00336256353412297
+8942,Materials,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.00336256353412297
 8943,Materials,2015,Economic & Financial,Client & Fund Services,Client Fees,0.001256592897955697
 8944,Materials,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.02224231333055759
 8945,Materials,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0016695259049855542
@@ -9041,7 +9041,7 @@
 9039,Materials,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.010187922672738778
 9040,Materials,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.0013614843917722195
 9041,Materials,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.001508629686125262
-9042,Materials,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0026241985242579906
+9042,Materials,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0026241985242579906
 9043,Materials,2016,Economic & Financial,Client & Fund Services,Client Fees,0.0011599474973301815
 9044,Materials,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.023195353064418507
 9045,Materials,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013071908492358658
@@ -9141,7 +9141,7 @@
 9139,Materials,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.006524762003488223
 9140,Materials,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.0014649059460269168
 9141,Materials,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002491015390027322
-9142,Materials,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004270099090121088
+9142,Materials,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.004270099090121088
 9143,Materials,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0010666951903512284
 9144,Materials,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.003694498002229366
 9145,Materials,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0015839643537248244
@@ -9241,7 +9241,7 @@
 9239,Materials,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.007231281965265548
 9240,Materials,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.0014841780173057311
 9241,Materials,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0029246315422595064
-9242,Materials,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.012849690008641971
+9242,Materials,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.012849690008641971
 9243,Materials,2018,Economic & Financial,Client & Fund Services,Client Fees,0.0010167645556794624
 9244,Materials,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0031952315833808304
 9245,Materials,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0024659022469058676
@@ -9341,7 +9341,7 @@
 9339,Materials,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.006295468592054284
 9340,Materials,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.0016503219731013384
 9341,Materials,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0028519930981715483
-9342,Materials,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.008777110322415295
+9342,Materials,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.008777110322415295
 9343,Materials,2019,Economic & Financial,Client & Fund Services,Client Fees,0.001180388385072976
 9344,Materials,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0024067756834149786
 9345,Materials,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0034086725705362113
@@ -9441,7 +9441,7 @@
 9439,Materials,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.009531760343625892
 9440,Materials,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.002596920941465782
 9441,Materials,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.004046791070486897
-9442,Materials,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0020179477205396726
+9442,Materials,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.0020179477205396726
 9443,Materials,2020,Economic & Financial,Client & Fund Services,Client Fees,0.001032718487185508
 9444,Materials,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002102333187452459
 9445,Materials,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0019771069061283106
@@ -9541,7 +9541,7 @@
 9539,Materials,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.010604066330612939
 9540,Materials,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.0020289038049606948
 9541,Materials,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0029358822917085322
-9542,Materials,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0020753662502119357
+9542,Materials,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.0020753662502119357
 9543,Materials,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0010491553993313026
 9544,Materials,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002108822027628117
 9545,Materials,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0015730056253778668
@@ -9641,7 +9641,7 @@
 9639,Materials,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.010522657346447684
 9640,Materials,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0024052321479476634
 9641,Materials,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0038738021364688137
-9642,Materials,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0015710467968779562
+9642,Materials,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.0015710467968779562
 9643,Materials,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0012006643766336081
 9644,Materials,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0018287318666560463
 9645,Materials,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012191887712532973
@@ -9741,7 +9741,7 @@
 9739,Materials,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.014342197683395659
 9740,Materials,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0019650044635616884
 9741,Materials,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.003974903753253789
-9742,Materials,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.003017726851150183
+9742,Materials,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.003017726851150183
 9743,Materials,2023,Economic & Financial,Client & Fund Services,Client Fees,0.001483533202095807
 9744,Materials,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.002342171696899557
 9745,Materials,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011785973652049238
@@ -9841,7 +9841,7 @@
 9839,Materials,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.013305009538438052
 9840,Materials,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.0017481745593859936
 9841,Materials,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0032607347754515744
-9842,Materials,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.013531589084778585
+9842,Materials,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.013531589084778585
 9843,Materials,2024,Economic & Financial,Client & Fund Services,Client Fees,0.0014152157189682595
 9844,Materials,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.003120555580405527
 9845,Materials,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012533967345334587
@@ -9941,7 +9941,7 @@
 9939,Real Estate,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.003043970150232005
 9940,Real Estate,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.029749735920922733
 9941,Real Estate,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.04146593587056787
-9942,Real Estate,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0009486149916514187
+9942,Real Estate,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.0009486149916514187
 9943,Real Estate,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0017250849463299948
 9944,Real Estate,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.00366871848520599
 9945,Real Estate,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0015896721673893176
@@ -10041,7 +10041,7 @@
 10039,Real Estate,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.00303514883196254
 10040,Real Estate,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.024365065476663995
 10041,Real Estate,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.03615091036875163
-10042,Real Estate,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0012750937107403213
+10042,Real Estate,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.0012750937107403213
 10043,Real Estate,2015,Economic & Financial,Client & Fund Services,Client Fees,0.002786888826668034
 10044,Real Estate,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.020830435404950855
 10045,Real Estate,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011057971030655031
@@ -10141,7 +10141,7 @@
 10139,Real Estate,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.003555836579461531
 10140,Real Estate,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.024019929175196245
 10141,Real Estate,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.04353135377693174
-10142,Real Estate,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0009943059309796753
+10142,Real Estate,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0009943059309796753
 10143,Real Estate,2016,Economic & Financial,Client & Fund Services,Client Fees,0.003995000012622797
 10144,Real Estate,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.010154181840579665
 10145,Real Estate,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013291656899072064
@@ -10241,7 +10241,7 @@
 10239,Real Estate,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.0036285384243932893
 10240,Real Estate,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.0199199033469981
 10241,Real Estate,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.04167362633040728
-10242,Real Estate,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0011419843827284706
+10242,Real Estate,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.0011419843827284706
 10243,Real Estate,2017,Economic & Financial,Client & Fund Services,Client Fees,0.003266468780837523
 10244,Real Estate,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0036565171041570074
 10245,Real Estate,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012746896610450163
@@ -10341,7 +10341,7 @@
 10339,Real Estate,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.004326737737756351
 10340,Real Estate,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.02018117659892513
 10341,Real Estate,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.05416373052424395
-10342,Real Estate,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004120986630440891
+10342,Real Estate,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.004120986630440891
 10343,Real Estate,2018,Economic & Financial,Client & Fund Services,Client Fees,0.002282914558439133
 10344,Real Estate,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0034750229725396494
 10345,Real Estate,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001186647036034779
@@ -10441,7 +10441,7 @@
 10439,Real Estate,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.005545216831178644
 10440,Real Estate,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.017915302784149215
 10441,Real Estate,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0493457975433914
-10442,Real Estate,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0020146533379713223
+10442,Real Estate,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.0020146533379713223
 10443,Real Estate,2019,Economic & Financial,Client & Fund Services,Client Fees,0.0018089680360319695
 10444,Real Estate,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0018399443335840031
 10445,Real Estate,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0012891205853294905
@@ -10541,7 +10541,7 @@
 10539,Real Estate,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.004391049010002275
 10540,Real Estate,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.01719219474507238
 10541,Real Estate,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.05633902026396575
-10542,Real Estate,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0013637761125277524
+10542,Real Estate,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.0013637761125277524
 10543,Real Estate,2020,Economic & Financial,Client & Fund Services,Client Fees,0.002644083813028322
 10544,Real Estate,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.001745333097724522
 10545,Real Estate,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0009300834929512385
@@ -10641,7 +10641,7 @@
 10639,Real Estate,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.005576721886500976
 10640,Real Estate,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.018583524171184633
 10641,Real Estate,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.06432878269804848
-10642,Real Estate,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.001305262148957506
+10642,Real Estate,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.001305262148957506
 10643,Real Estate,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0014656990728796509
 10644,Real Estate,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0015632505456473352
 10645,Real Estate,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0010812931201541656
@@ -10741,7 +10741,7 @@
 10739,Real Estate,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.005564629812003504
 10740,Real Estate,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0209254584226735
 10741,Real Estate,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0604162756506055
-10742,Real Estate,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0011693342376063462
+10742,Real Estate,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.0011693342376063462
 10743,Real Estate,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0019335155823223032
 10744,Real Estate,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0022403970580233312
 10745,Real Estate,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011259816370800073
@@ -10841,7 +10841,7 @@
 10839,Real Estate,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.004154236503700721
 10840,Real Estate,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.022479228357395353
 10841,Real Estate,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.05779799053732633
-10842,Real Estate,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0011324986388233976
+10842,Real Estate,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.0011324986388233976
 10843,Real Estate,2023,Economic & Financial,Client & Fund Services,Client Fees,0.002816049918263171
 10844,Real Estate,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0026941391840101365
 10845,Real Estate,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002013559651739749
@@ -10941,7 +10941,7 @@
 10939,Real Estate,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.004333701605460449
 10940,Real Estate,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.020462612414337486
 10941,Real Estate,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.052469105149312294
-10942,Real Estate,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004112826147579343
+10942,Real Estate,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.004112826147579343
 10943,Real Estate,2024,Economic & Financial,Client & Fund Services,Client Fees,0.002962464477977777
 10944,Real Estate,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0022700398368380504
 10945,Real Estate,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0011973924563862628
@@ -11041,7 +11041,7 @@
 11039,Utilities,2014,Environmental & Resource,Energy Operations,Energy Utilities,0.42442786150791356
 11040,Utilities,2014,Social & Consumer,Consumer Services,Hotel Revenue,0.0017963864411246083
 11041,Utilities,2014,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002314416677507575
-11042,Utilities,2014,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004248865137445419
+11042,Utilities,2014,Economic & Financial,Financial Instruments,Tariff Impact,0.004248865137445419
 11043,Utilities,2014,Economic & Financial,Client & Fund Services,Client Fees,0.0012508664902152863
 11044,Utilities,2014,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.006427761692008401
 11045,Utilities,2014,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0024075435171136894
@@ -11141,7 +11141,7 @@
 11139,Utilities,2015,Environmental & Resource,Energy Operations,Energy Utilities,0.42892982901775123
 11140,Utilities,2015,Social & Consumer,Consumer Services,Hotel Revenue,0.001421639701173723
 11141,Utilities,2015,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.001500254893028746
-11142,Utilities,2015,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0031413749793734844
+11142,Utilities,2015,Economic & Financial,Financial Instruments,Tariff Impact,0.0031413749793734844
 11143,Utilities,2015,Economic & Financial,Client & Fund Services,Client Fees,0.0012769439225742947
 11144,Utilities,2015,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.03601332851397763
 11145,Utilities,2015,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0019545657414793594
@@ -11241,7 +11241,7 @@
 11239,Utilities,2016,Environmental & Resource,Energy Operations,Energy Utilities,0.4329762916828639
 11240,Utilities,2016,Social & Consumer,Consumer Services,Hotel Revenue,0.0015073383481352344
 11241,Utilities,2016,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0015155572578277256
-11242,Utilities,2016,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0032064985143701744
+11242,Utilities,2016,Economic & Financial,Financial Instruments,Tariff Impact,0.0032064985143701744
 11243,Utilities,2016,Economic & Financial,Client & Fund Services,Client Fees,0.0013141990245766472
 11244,Utilities,2016,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.030687124173604714
 11245,Utilities,2016,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013376223508893609
@@ -11341,7 +11341,7 @@
 11339,Utilities,2017,Environmental & Resource,Energy Operations,Energy Utilities,0.4910831195009073
 11340,Utilities,2017,Social & Consumer,Consumer Services,Hotel Revenue,0.001316923607152101
 11341,Utilities,2017,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002833018230103344
-11342,Utilities,2017,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002803002852679685
+11342,Utilities,2017,Economic & Financial,Financial Instruments,Tariff Impact,0.002803002852679685
 11343,Utilities,2017,Economic & Financial,Client & Fund Services,Client Fees,0.0012279687316099086
 11344,Utilities,2017,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.004380183730011439
 11345,Utilities,2017,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0013816547845761694
@@ -11441,7 +11441,7 @@
 11439,Utilities,2018,Environmental & Resource,Energy Operations,Energy Utilities,0.4987818485518874
 11440,Utilities,2018,Social & Consumer,Consumer Services,Hotel Revenue,0.001374793987900932
 11441,Utilities,2018,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002717741061596633
-11442,Utilities,2018,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004704695922867234
+11442,Utilities,2018,Economic & Financial,Financial Instruments,Tariff Impact,0.004704695922867234
 11443,Utilities,2018,Economic & Financial,Client & Fund Services,Client Fees,0.0011708029853855462
 11444,Utilities,2018,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.003972897072773031
 11445,Utilities,2018,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0026937960995088443
@@ -11541,7 +11541,7 @@
 11539,Utilities,2019,Environmental & Resource,Energy Operations,Energy Utilities,0.5103050065265541
 11540,Utilities,2019,Social & Consumer,Consumer Services,Hotel Revenue,0.0014906724551552537
 11541,Utilities,2019,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0034723118179142668
-11542,Utilities,2019,Regulatory & Political,Regulatory Factors,Tariff Impact,0.004511026033159488
+11542,Utilities,2019,Economic & Financial,Financial Instruments,Tariff Impact,0.004511026033159488
 11543,Utilities,2019,Economic & Financial,Client & Fund Services,Client Fees,0.0019565945941319583
 11544,Utilities,2019,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0031624996689161105
 11545,Utilities,2019,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.002333106484568712
@@ -11641,7 +11641,7 @@
 11639,Utilities,2020,Environmental & Resource,Energy Operations,Energy Utilities,0.46289865049262824
 11640,Utilities,2020,Social & Consumer,Consumer Services,Hotel Revenue,0.0015005794988428248
 11641,Utilities,2020,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002185746626337036
-11642,Utilities,2020,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002014201130635663
+11642,Utilities,2020,Economic & Financial,Financial Instruments,Tariff Impact,0.002014201130635663
 11643,Utilities,2020,Economic & Financial,Client & Fund Services,Client Fees,0.0015434306284509841
 11644,Utilities,2020,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0030047501102541388
 11645,Utilities,2020,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001757764550941189
@@ -11741,7 +11741,7 @@
 11739,Utilities,2021,Environmental & Resource,Energy Operations,Energy Utilities,0.5261838837776123
 11740,Utilities,2021,Social & Consumer,Consumer Services,Hotel Revenue,0.001601939537814171
 11741,Utilities,2021,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002840605660313273
-11742,Utilities,2021,Regulatory & Political,Regulatory Factors,Tariff Impact,0.002746220296071013
+11742,Utilities,2021,Economic & Financial,Financial Instruments,Tariff Impact,0.002746220296071013
 11743,Utilities,2021,Economic & Financial,Client & Fund Services,Client Fees,0.0013524320134468727
 11744,Utilities,2021,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0026855605018629735
 11745,Utilities,2021,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0031496406823956964
@@ -11841,7 +11841,7 @@
 11839,Utilities,2022,Environmental & Resource,Energy Operations,Energy Utilities,0.4974177555451624
 11840,Utilities,2022,Social & Consumer,Consumer Services,Hotel Revenue,0.0014480630220895982
 11841,Utilities,2022,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.0036331628617960947
-11842,Utilities,2022,Regulatory & Political,Regulatory Factors,Tariff Impact,0.007247094116612214
+11842,Utilities,2022,Economic & Financial,Financial Instruments,Tariff Impact,0.007247094116612214
 11843,Utilities,2022,Economic & Financial,Client & Fund Services,Client Fees,0.0013366028446555002
 11844,Utilities,2022,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.0029730609384486504
 11845,Utilities,2022,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.00308605974790317
@@ -11941,7 +11941,7 @@
 11939,Utilities,2023,Environmental & Resource,Energy Operations,Energy Utilities,0.5384621403796335
 11940,Utilities,2023,Social & Consumer,Consumer Services,Hotel Revenue,0.0013445710484150724
 11941,Utilities,2023,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.002406459753732158
-11942,Utilities,2023,Regulatory & Political,Regulatory Factors,Tariff Impact,0.0021532614804825527
+11942,Utilities,2023,Economic & Financial,Financial Instruments,Tariff Impact,0.0021532614804825527
 11943,Utilities,2023,Economic & Financial,Client & Fund Services,Client Fees,0.0016848519415290628
 11944,Utilities,2023,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.00330557932267196
 11945,Utilities,2023,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.0021490097499710483
@@ -12041,7 +12041,7 @@
 12039,Utilities,2024,Environmental & Resource,Energy Operations,Energy Utilities,0.5448719173258355
 12040,Utilities,2024,Social & Consumer,Consumer Services,Hotel Revenue,0.001373468364224428
 12041,Utilities,2024,Corporate Strategy & Execution,Asset Scaling,Site Deployment,0.008338861347751286
-12042,Utilities,2024,Regulatory & Political,Regulatory Factors,Tariff Impact,0.009820070697102919
+12042,Utilities,2024,Economic & Financial,Financial Instruments,Tariff Impact,0.009820070697102919
 12043,Utilities,2024,Economic & Financial,Client & Fund Services,Client Fees,0.001451703288605844
 12044,Utilities,2024,Corporate Strategy & Execution,Leadership & Governance,Executive Leadership,0.00268997633127928
 12045,Utilities,2024,Corporate Strategy & Execution,Asset Scaling,Fleet Expansion,0.001981842112041378
